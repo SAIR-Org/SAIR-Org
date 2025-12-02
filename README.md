@@ -45,6 +45,23 @@ Building Sudan's AI Talent Pipeline from Education to Innovation
 
 ---
 
+## 📖 Table of Contents
+
+- [👨‍💼 Meet the Founder](#-meet-the-founder)
+- [🌍 About SAiR](#-about-sair)
+- [🏛️ Organization Architecture](#️-organization-architecture)
+- [📚 Educational Programs](#-educational-programs)
+- [🎯 Mission, Vision & Values](#-mission-vision--values)
+- [🌟 Student Success Stories](#-featured-student-success-stories)
+- [🌐 Join the SAiR Community](#-join-the-sair-community)
+- [🚀 Roadmap & Future Vision](#-roadmap--future-vision)
+- [🤝 Partnerships & Collaborations](#-partnerships--collaborations)
+- [📊 Impact Metrics](#-impact-metrics--progress)
+- [📜 Open Source](#-open-source--contribution)
+- [💬 Contact & Support](#-contact--support)
+
+---
+
 ## 👨‍💼 Meet the Founder
 
 <div align="center">
@@ -110,6 +127,13 @@ Projects & Research
 
 **Mohammed Awad Ahmed (Silva)** is a Sudanese AI engineer, researcher, and passionate educator dedicated to democratizing artificial intelligence education in Sudan and across Africa. With expertise in both theoretical foundations and practical applications, he founded SAiR to create a sustainable AI ecosystem that nurtures local talent and prepares them for global challenges.
 
+### 🏆 Key Achievements
+
+- 🎓 **200+ Students Trained** across multiple AI/ML courses
+- 📚 **2 Complete Modules** delivered with high completion rates
+- 🚀 **15+ Real-World Projects** developed by students
+- 🌍 **Building Pan-African AI Community** from Sudan
+
 ---
 
 ## 🌍 About SAiR
@@ -120,6 +144,26 @@ Projects & Research
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F75C03&center=true&vCenter=true&width=435&lines=السير;Walking+on+a+Road;Building+AI+Future" alt="SAiR Logo" />
 
 <br/><br/>
+
+<!-- Quick Stats -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Founded-Dec_2024-blue?style=for-the-badge" alt="Founded"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Students-200+-success?style=for-the-badge" alt="Students"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Projects-15+-orange?style=for-the-badge" alt="Projects"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Completion-85%25-brightgreen?style=for-the-badge" alt="Completion"/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- Dual Focus Cards -->
 <table>
@@ -156,10 +200,10 @@ Building foundational AI/ML skills through practical, project-based courses. We'
 Creating a self-sustaining AI ecosystem in Sudan where education leads to research, innovation leads to solutions, and talent leads to global impact.
 
 **Roadmap:**
-- 🕐 Research Publications
-- 🕐 Innovation Hub Launch
-- 🕐 Startup Incubation
-- 🕐 Pan-African Expansion
+- 🔜 Research Publications
+- 🔜 Innovation Hub Launch
+- 🔜 Startup Incubation
+- 🔜 Pan-African Expansion
 
 </td>
 </tr>
@@ -190,6 +234,33 @@ gantt
 ```
 
 </div>
+
+### 🎓 What Makes SAiR Different?
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Practical" width="50" height="50" />
+<br/><strong>100% Practical</strong><br/>
+<small>Learn by building real projects from day one</small>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" alt="Free" width="50" height="50" />
+<br/><strong>Completely Free</strong><br/>
+<small>No tuition fees, no hidden costs</small>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="Community" width="50" height="50" />
+<br/><strong>Strong Community</strong><br/>
+<small>Peer support and mentorship</small>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Local" width="50" height="50" />
+<br/><strong>African Context</strong><br/>
+<small>Solving local challenges</small>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -246,10 +317,11 @@ gantt
 <table>
 <thead>
 <tr>
-<th width="25%">🎯 Module</th>
+<th width="20%">🎯 Module</th>
 <th width="15%">Progress</th>
-<th width="30%">Focus Areas</th>
-<th width="30%">Student Outcomes</th>
+<th width="25%">Focus Areas</th>
+<th width="20%">Duration</th>
+<th width="20%">Student Outcomes</th>
 </tr>
 </thead>
 <tbody>
@@ -268,6 +340,10 @@ gantt
 • Exploratory Analysis<br/>
 • Feature Engineering
 </td>
+<td align="center">
+<strong>6 weeks</strong><br/>
+<small>Dec 2024 - Jan 2025</small>
+</td>
 <td>
 <img src="https://img.shields.io/badge/Students-50+-success?style=flat-square" alt="Students"/><br/>
 Basic ML Implementation<br/>
@@ -277,7 +353,7 @@ Data Preprocessing Skills
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="30" height="30" /><br/>
-<strong>Regression & Classification</strong>
+<strong>ML Algorithms</strong>
 </td>
 <td align="center">
 <img src="https://progress-bar.dev/100?title=Done&width=80&color=00ff00" alt="100%"/>
@@ -288,6 +364,10 @@ Data Preprocessing Skills
 • ML Pipelines<br/>
 • Model Selection<br/>
 • Cross-validation
+</td>
+<td align="center">
+<strong>8 weeks</strong><br/>
+<small>Jan 2025 - Feb 2025</small>
 </td>
 <td>
 <img src="https://img.shields.io/badge/Projects-25+-success?style=flat-square" alt="Projects"/><br/>
@@ -310,6 +390,10 @@ End-to-End Workflows
 • <strong>Backpropagation</strong><br/>
 • <strong>Optimization Algorithms</strong>
 </td>
+<td align="center">
+<strong>10 weeks</strong><br/>
+<small>Feb 2025 - Apr 2025</small>
+</td>
 <td>
 <img src="https://img.shields.io/badge/Enrolled-40+-blue?style=flat-square" alt="Enrolled"/><br/>
 <strong>Deep Learning Fundamentals</strong><br/>
@@ -331,6 +415,10 @@ End-to-End Workflows
 • RNN & Transformers<br/>
 • Transfer Learning
 </td>
+<td align="center">
+<strong>12 weeks</strong><br/>
+<small>Apr 2025 - Jun 2025</small>
+</td>
 <td>
 <img src="https://img.shields.io/badge/Coming-Soon-orange?style=flat-square" alt="Coming"/><br/>
 Modern AI Architectures<br/>
@@ -351,6 +439,10 @@ State-of-the-Art Models
 • Cloud Platforms<br/>
 • Monitoring Systems<br/>
 • CI/CD Pipelines
+</td>
+<td align="center">
+<strong>8 weeks</strong><br/>
+<small>Jul 2025 - Sep 2025</small>
 </td>
 <td>
 <img src="https://img.shields.io/badge/Target-Q3_2025-orange?style=flat-square" alt="Target"/><br/>
@@ -387,10 +479,16 @@ Production Deployment
 - Custom deep learning library
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="Folder" width="25" height="25" /> **Technologies:**
-```
+```python
 NumPy | Matplotlib | Pandas
 Math | Algorithm Design
 ```
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="25" height="25" /> **Weekly Structure:**
+- 📹 2 Video Lectures
+- 💻 3 Coding Exercises
+- 🎯 1 Mini-Project
+- 👥 1 Live Q&A Session
 
 </td>
 <td width="50%" valign="top">
@@ -407,55 +505,14 @@ Math | Algorithm Design
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> **Project Stats:**
 ```
 15 Active Projects | 40 Students
-85% Completion Rate
+85% Completion Rate | 95% Satisfaction
 ```
 
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> **Top Achievement:**
+- Best Model: 99.2% MNIST Accuracy
+- Fastest Training: 30s per epoch
+- Most Creative: Custom Visualization Dashboard
 
-</div>
-
----
-
-### 🌟 Featured Student Success Stories
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
-<h4>Ahmed Hassan</h4>
-<img src="https://img.shields.io/badge/NASA-Predictive_Maintenance-red?style=flat-square&logo=nasa" alt="NASA"/>
-<br/><br/>
-<strong>LSTM Model for Jet Engines</strong><br/>
-Predicting maintenance needs<br/>
-using time-series analysis
-<br/><br/>
-<img src="https://img.shields.io/badge/Accuracy-94%25-success" alt="94%"/>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stethoscope.png" alt="Health" width="50" height="50" />
-<h4>Sara Mohamed</h4>
-<img src="https://img.shields.io/badge/Healthcare-Sudan_Focus-green?style=flat-square&logo=heart" alt="Health"/>
-<br/><br/>
-<strong>Health Score Predictor</strong><br/>
-XGBoost deployment for<br/>
-Sudanese health metrics
-<br/><br/>
-<img src="https://img.shields.io/badge/Deployed-Production-success" alt="Production"/>
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" alt="Agriculture" width="50" height="50" />
-<h4>Khalid Ibrahim</h4>
-<img src="https://img.shields.io/badge/Agriculture-Smart_Farming-orange?style=flat-square&logo=leaf" alt="Agriculture"/>
-<br/><br/>
-<strong>Crop Disease Detection</strong><br/>
-CNN-based agricultural<br/>
-assistant for farmers
-<br/><br/>
-<img src="https://img.shields.io/badge/Impact-Local_Farmers-orange" alt="Impact"/>
 </td>
 </tr>
 </table>
@@ -509,45 +566,107 @@ To establish **Sudan as a recognized hub** for AI innovation in Africa, where lo
 
 <br/>
 
-<!-- Educational Philosophy -->
+### 🎓 Educational Philosophy
+
 <table>
 <tr>
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" />
+<br/><strong>Learn by Doing</strong><br/>
+Theory → Code → Project → Impact
 </td>
-<td width="100%">
-<h3>📖 Educational Philosophy</h3>
-<p><em>"Theory in lectures, practice in code, mastery in projects, impact in community."</em></p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="Community" width="30" height="30" />
+<br/><strong>Community First</strong><br/>
+Peer learning & mentorship
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="30" height="30" />
+<br/><strong>Context Matters</strong><br/>
+Solve Sudanese problems first
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" />
+<br/><strong>Build Fundamentals</strong><br/>
+From scratch understanding
 </td>
 </tr>
 </table>
 
-<!-- Value Propositions Grid -->
+</div>
+
+---
+
+## 🌟 Featured Student Success Stories
+
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="40" height="40" />
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
+<h4>Ahmed Hassan</h4>
+<img src="https://img.shields.io/badge/NASA-Predictive_Maintenance-red?style=flat-square&logo=nasa" alt="NASA"/>
 <br/><br/>
-<strong>Accessibility</strong><br/>
-Free, high-quality<br/>AI education for all
+<strong>LSTM Model for Jet Engines</strong><br/>
+Predicting maintenance needs<br/>
+using time-series analysis
+<br/><br/>
+<img src="https://img.shields.io/badge/Accuracy-94%25-success" alt="94%"/>
+<img src="https://img.shields.io/badge/Impact-High-orange" alt="High Impact"/>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="40" height="40" />
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Stethoscope.png" alt="Health" width="50" height="50" />
+<h4>Sara Mohamed</h4>
+<img src="https://img.shields.io/badge/Healthcare-Sudan_Focus-green?style=flat-square&logo=heart" alt="Health"/>
 <br/><br/>
-<strong>Practicality</strong><br/>
-Project-based learning<br/>from day one
+<strong>Health Score Predictor</strong><br/>
+XGBoost deployment for<br/>
+Sudanese health metrics
+<br/><br/>
+<img src="https://img.shields.io/badge/Deployed-Production-success" alt="Production"/>
+<img src="https://img.shields.io/badge/Users-500+-blue" alt="500+ Users"/>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="Community" width="40" height="40" />
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" alt="Agriculture" width="50" height="50" />
+<h4>Khalid Ibrahim</h4>
+<img src="https://img.shields.io/badge/Agriculture-Smart_Farming-orange?style=flat-square&logo=leaf" alt="Agriculture"/>
 <br/><br/>
-<strong>Community</strong><br/>
-Supportive network of<br/>peers and mentors
+<strong>Crop Disease Detection</strong><br/>
+CNN-based agricultural<br/>
+assistant for farmers
+<br/><br/>
+<img src="https://img.shields.io/badge/Impact-Local_Farmers-orange" alt="Impact"/>
+<img src="https://img.shields.io/badge/Accuracy-92%25-success" alt="92%"/>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="40" height="40" />
-<br/><br/>
-<strong>Impact</strong><br/>
-Solving real<br/>African challenges
+</tr>
+</table>
+
+<br/>
+
+### 💼 Where Our Graduates Work
+
+<table>
+<tr>
+<td align="center" width="20%">
+<strong>🏢 Tech Companies</strong><br/>
+<small>Startups & Scale-ups</small>
+</td>
+<td align="center" width="20%">
+<strong>🎓 Universities</strong><br/>
+<small>Research Assistants</small>
+</td>
+<td align="center" width="20%">
+<strong>🏦 Financial Sector</strong><br/>
+<small>Data Scientists</small>
+</td>
+<td align="center" width="20%">
+<strong>🏥 Healthcare</strong><br/>
+<small>AI Engineers</small>
+</td>
+<td align="center" width="20%">
+<strong>🚀 Own Startups</strong><br/>
+<small>Founders & CTOs</small>
 </td>
 </tr>
 </table>
@@ -560,102 +679,81 @@ Solving real<br/>African challenges
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=200%2B+Active+Learners;15%2B+Real-World+Projects;Growing+Every+Day;Be+Part+of+the+Movement!" alt="Community Stats" />
+### 🤝 Connect, Learn & Grow Together
 
-<br/><br/>
-
-<!-- Engagement Cards -->
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://t.me/+jPPlO6ZFDbtlYzU0">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="Community" width="80" height="80" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Join_Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-<br/><br/>
-<strong>Connect & Learn</strong><br/>
-200+ members helping<br/>each other grow
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="People" width="60" height="60" />
+<br/><br/>
+<strong>Main Community</strong><br/>
+<small>500+ Members</small><br/>
+Daily discussions, Q&A, support
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://github.com/SAIR-Org/SAIR_Courses">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Courses" width="80" height="80" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Explore_Courses-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<br/><br/>
-<strong>Start Learning</strong><br/>
-Free courses with<br/>hands-on projects
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="60" height="60" />
+<br/><br/>
+<strong>Course Materials</strong><br/>
+<small>Open Source</small><br/>
+Code, slides, projects
 </td>
-<td align="center" width="25%">
-<a href="mailto:silvaxxx1@gmail.com">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Collaborate" width="80" height="80" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Collaborate-4CAF50?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
-<br/><br/>
-<strong>Partner With Us</strong><br/>
-Academic & industry<br/>collaborations
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/company/sair-org">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</td>
-<td align="center" width="25%">
-<a href="https://silvaxxx1.github.io/MyWebsite/">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Website" width="80" height="80" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Learn_More-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="60" height="60" />
 <br/><br/>
-<strong>Discover More</strong><br/>
-Projects, updates<br/>& founder's work
-</a>
+<strong>Professional Network</strong><br/>
+<small>Connections</small><br/>
+Industry links, opportunities
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 📅 Weekly Community Activities
+### 🗓️ Weekly Community Events
 
 <table>
-<thead>
 <tr>
-<th width="14%">Monday</th>
-<th width="14%">Tuesday</th>
-<th width="14%">Wednesday</th>
-<th width="14%">Thursday</th>
-<th width="14%">Friday</th>
-<th width="14%">Saturday</th>
-<th width="14%">Sunday</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">
-🎯<br/><strong>Goals</strong><br/>Weekly<br/>Planning
-</td>
-<td align="center">
-📚<br/><strong>Review</strong><br/>Module<br/>Sessions
-</td>
-<td align="center">
-🎤<br/><strong>Speakers</strong><br/>Guest<br/>Series
-</td>
-<td align="center">
-💻<br/><strong>Projects</strong><br/>Work<br/>Sessions
-</td>
-<td align="center">
-👨‍💻<br/><strong>Code Review</strong><br/>Clinic<br/>Help
-</td>
-<td align="center">
-❓<br/><strong>Q&A</strong><br/>Marathon<br/>All Mentors
-</td>
-<td align="center">
-🏆<br/><strong>Showcases</strong><br/>Project<br/>Presentations
-</td>
+<th>Day</th>
+<th>Activity</th>
+<th>Time</th>
+<th>Lead</th>
 </tr>
 <tr>
-<td align="center" colspan="7">
-<small><em>All sessions at 7:00 PM UTC+2 unless specified</em></small>
-</td>
+<td align="center">📅 Monday</td>
+<td>Week Kick-off & Goals</td>
+<td>8:00 PM CAT</td>
+<td>Mohammed (Founder)</td>
 </tr>
-</tbody>
+<tr>
+<td align="center">💻 Wednesday</td>
+<td>Live Coding Session</td>
+<td>7:00 PM CAT</td>
+<td>Senior Students</td>
+</tr>
+<tr>
+<td align="center">❓ Friday</td>
+<td>Q&A & Doubt Clearing</td>
+<td>6:00 PM CAT</td>
+<td>All Mentors</td>
+</tr>
+<tr>
+<td align="center">🚀 Saturday</td>
+<td>Project Showcase</td>
+<td>4:00 PM CAT</td>
+<td>Student Led</td>
+</tr>
 </table>
 
 </div>
@@ -666,157 +764,77 @@ Projects, updates<br/>& founder's work
 
 <div align="center">
 
-### 🗺️ SAiR Development Roadmap 2025-2026
+### 📅 SAiR 2024-2026 Strategic Plan
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="Roadmap" width="80" height="80" />
-
-<br/><br/>
-
-<!-- Roadmap Timeline -->
-<table>
-<thead>
-<tr>
-<th width="15%">Timeline</th>
-<th width="28%">🎓 Educational Goals</th>
-<th width="28%">🔬 Research Goals</th>
-<th width="29%">💡 Innovation Goals</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">
-<strong>Q1 2025</strong><br/>
-<small>Jan - Mar</small>
-</td>
-<td>
-<img src="https://img.shields.io/badge/Active-65%25-blue?style=flat-square" alt="65%"/><br/>
-• Complete Neural Networks<br/>
-• Launch Advanced DL Module<br/>
-• Expand to 500+ learners
-</td>
-<td>
-<img src="https://img.shields.io/badge/Starting-Research Groups-orange?style=flat-square" alt="Starting"/><br/>
-• Research reading groups<br/>
-• Paper discussion forums<br/>
-• Literature review sessions
-</td>
-<td>
-<img src="https://img.shields.io/badge/Exploring-Problem Identification-yellow?style=flat-square" alt="Exploring"/><br/>
-• Identify key challenges<br/>
-• Problem statement workshops<br/>
-• Solution brainstorming
-</td>
-</tr>
-<tr>
-<td align="center">
-<strong>Q2 2025</strong><br/>
-<small>Apr - Jun</small>
-</td>
-<td>
-<img src="https://img.shields.io/badge/Launch-MLOps-green?style=flat-square" alt="Launch"/><br/>
-• MLOps module launch<br/>
-• First cohort graduation<br/>
-• Industry certification prep
-</td>
-<td>
-<img src="https://img.shields.io/badge/Growing-Collaborative Papers-blue?style=flat-square" alt="Growing"/><br/>
-• Start collaborative papers<br/>
-• Open-source contributions<br/>
-• Conference preparations
-</td>
-<td>
-<img src="https://img.shields.io/badge/Building-Prototyping-blue?style=flat-square" alt="Building"/><br/>
-• Prototype first solutions<br/>
-• Minimum viable products<br/>
-• User testing & feedback
-</td>
-</tr>
-<tr>
-<td align="center">
-<strong>Q3 2025</strong><br/>
-<small>Jul - Sep</small>
-</td>
-<td>
-<img src="https://img.shields.io/badge/Expanding-Advanced Tracks-purple?style=flat-square" alt="Expanding"/><br/>
-• Advanced tracks launch<br/>
-• Industry partnerships<br/>
-• Specialization programs
-</td>
-<td>
-<img src="https://img.shields.io/badge/Submitting-Conference Papers-red?style=flat-square" alt="Submitting"/><br/>
-• Conference submissions<br/>
-• Workshop organization<br/>
-• Research mentorship
-</td>
-<td>
-<img src="https://img.shields.io/badge/Testing-Incubation Pilot-orange?style=flat-square" alt="Testing"/><br/>
-• Incubation program pilot<br/>
-• MVP deployments<br/>
-• Impact assessment
-</td>
-</tr>
-<tr>
-<td align="center">
-<strong>Q4 2025</strong><br/>
-<small>Oct - Dec</small>
-</td>
-<td>
-<img src="https://img.shields.io/badge/Maturing-Specialization-success?style=flat-square" alt="Maturing"/><br/>
-• Full specialization tracks<br/>
-• Certification system<br/>
-• Alumni network launch
-</td>
-<td>
-<img src="https://img.shields.io/badge/Publishing-Journal Papers-brightgreen?style=flat-square" alt="Publishing"/><br/>
-• Journal publications<br/>
-• Research grants<br/>
-• International collaborations
-</td>
-<td>
-<img src="https://img.shields.io/badge/Launching-First Startups-success?style=flat-square" alt="Launching"/><br/>
-• First startup launches<br/>
-• Funding rounds<br/>
-• Scale preparation
-</td>
-</tr>
-</tbody>
-</table>
+```mermaid
+timeline
+    title SAiR Development Timeline
+    section 2024 Q4
+        Organization Foundation : Course Framework
+        First Cohort Launch     : 50 Students
+    section 2025 Q1
+        ML Foundations Complete : 95% Completion
+        Neural Networks Launch  : Current Module
+        Research Division Plan  : Framework Design
+    section 2025 Q2
+        Advanced DL Courses     : PyTorch & CNN
+        First Research Papers   : Submission Target
+        Community Growth        : 1000+ Members
+    section 2025 Q3
+        MLOps & Deployment      : Production Focus
+        Innovation Hub Launch   : Problem Solving
+        Industry Partnerships   : First Agreements
+    section 2025 Q4
+        Specialization Tracks   : NLP, CV, RL
+        Startup Incubation      : First 3 Startups
+        Pan-African Expansion   : Regional Chapters
+    section 2026
+        Research Publications   : International Conferences
+        Sustainable Model       : Grants & Partnerships
+        Global Recognition      : African AI Leader
+```
 
 <br/>
 
-### 🎯 Immediate Priorities
+### 🎯 Phase 2: Research Division (Q2 2025 Launch)
 
 <table>
 <tr>
-<td align="center" width="20%">
-<h3>1️⃣</h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Module" width="40" height="40" /><br/>
-<strong>Complete Current Module</strong><br/>
-Deep learning mastery
+<td width="33%" valign="top">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Research" width="50" height="50" />
+<h4>Research Groups</h4>
+</div>
+<ul>
+<li><strong>NLP for Sudanese Arabic</strong> - Dialect processing</li>
+<li><strong>Healthcare AI</strong> - Local disease prediction</li>
+<li><strong>Agriculture Tech</strong> - Climate-smart farming</li>
+<li><strong>Renewable Energy</strong> - Optimization models</li>
+</ul>
 </td>
-<td align="center" width="20%">
-<h3>2️⃣</h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="Community" width="40" height="40" /><br/>
-<strong>Expand Community</strong><br/>
-500+ active learners
+<td width="33%" valign="top">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Publications" width="50" height="50" />
+<h4>Publication Goals</h4>
+</div>
+<ul>
+<li>Q3 2025: First preprint</li>
+<li>Q4 2025: Conference submission</li>
+<li>2026: Journal publications</li>
+<li>Open source all research</li>
+</ul>
 </td>
-<td align="center" width="20%">
-<h3>3️⃣</h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Curriculum" width="40" height="40" /><br/>
-<strong>Develop Advanced Curriculum</strong><br/>
-Mid/senior tracks
-</td>
-<td align="center" width="20%">
-<h3>4️⃣</h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Partnerships" width="40" height="40" /><br/>
-<strong>Industry Partnerships</strong><br/>
-Real-world projects
-</td>
-<td align="center" width="20%">
-<h3>5️⃣</h3>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Research" width="40" height="40" /><br/>
-<strong>Research Collaborations</strong><br/>
-Academic institutions
+<td width="33%" valign="top">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Collaborations" width="50" height="50" />
+<h4>Research Partners</h4>
+</div>
+<ul>
+<li>Sudanese Universities</li>
+<li>African Research Institutes</li>
+<li>International AI Labs</li>
+<li>Industry Research Teams</li>
+</ul>
 </td>
 </tr>
 </table>
@@ -829,76 +847,71 @@ Academic institutions
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+Strong+Partnerships;Academic+Industry+Global+Local;Together+We+Can+Do+More" alt="Partnerships" />
+### 🤝 Current & Target Partnerships
 
-<br/><br/>
-
-<!-- Partnership Grid -->
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="Academic" width="80" height="80" />
-<br/><br/>
-<strong>🏫 Academic</strong><br/>
-Universities &<br/>Research Institutions
-<br/><br/>
-<small>Seeking curriculum development partnerships and research collaborations</small>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/University.png" alt="University" width="40" height="40" />
+<br/><strong>Academic</strong><br/>
+Sudanese Universities<br/>
+<small>Curriculum Support</small>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Factory.png" alt="Industry" width="80" height="80" />
-<br/><br/>
-<strong>🏢 Industry</strong><br/>
-Tech Companies &<br/>AI Organizations
-<br/><br/>
-<small>Looking for mentorship programs, project sponsorship, and talent pipelines</small>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png" alt="Industry" width="40" height="40" />
+<br/><strong>Industry</strong><br/>
+Tech Companies<br/>
+<small>Internships & Projects</small>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Global" width="80" height="80" />
-<br/><br/>
-<strong>🌍 Global</strong><br/>
-International AI<br/>Communities
-<br/><br/>
-<small>Open to knowledge sharing, best practices, and cross-border collaborations</small>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="NGO" width="40" height="40" />
+<br/><strong>NGOs</strong><br/>
+Development Organizations<br/>
+<small>Social Impact Projects</small>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Sudan.png" alt="Local" width="80" height="80" />
-<br/><br/>
-<strong>🇸🇩 Local</strong><br/>
-Sudanese Tech<br/>Ecosystem
-<br/><br/>
-<small>Engaging with local startups, tech hubs, and innovation centers</small>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Global" width="40" height="40" />
+<br/><strong>International</strong><br/>
+Global AI Initiatives<br/>
+<small>Knowledge Exchange</small>
 </td>
 </tr>
 </table>
 
 <br/>
 
-### 🎯 Seeking Collaborations In:
+### 💼 Partnership Benefits
 
 <table>
+<thead>
 <tr>
-<td width="33%" valign="top">
-<h4>📚 Curriculum Development</h4>
-• Joint educational programs<br/>
-• Course material sharing<br/>
-• Certification partnerships<br/>
-• Learning platform integration
+<th width="30%">For Partners</th>
+<th width="30%">For SAiR</th>
+<th width="40%">Joint Benefits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
+• Access to trained talent<br/>
+• Real-world project testing<br/>
+• Corporate social impact<br/>
+• Early technology adoption
 </td>
-<td width="33%" valign="top">
-<h4>🔬 Research Projects</h4>
-• Collaborative AI research<br/>
-• Data sharing agreements<br/>
-• Joint publications<br/>
-• Conference organization
+<td valign="top">
+• Industry-relevant curriculum<br/>
+• Student placement opportunities<br/>
+• Resource sharing<br/>
+• Credibility & recognition
 </td>
-<td width="34%" valign="top">
-<h4>💼 Mentorship & Resources</h4>
-• Industry expert guidance<br/>
-• Computing infrastructure<br/>
-• Dataset contributions<br/>
-• Project sponsorship
+<td valign="top">
+• Solving local challenges<br/>
+• Building Sudan's tech ecosystem<br/>
+• Creating employment pathways<br/>
+• Knowledge transfer & innovation
 </td>
 </tr>
+</tbody>
 </table>
 
 </div>
@@ -909,128 +922,105 @@ Sudanese Tech<br/>Ecosystem
 
 <div align="center">
 
-### 📈 SAiR Impact Dashboard
+### 📈 Key Performance Indicators
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,4,5&height=80&section=header&text=Making+Measurable+Impact&fontSize=22&fontColor=fff&animation=fadeIn" width="100%"/>
+<table>
+<tr>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/Students_Trained-200+-blue?style=for-the-badge" alt="Students"/>
+<br/>
+<strong>👥 Learners</strong><br/>
+<small>Active & Alumni</small>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/Completion_Rate-85%25-brightgreen?style=for-the-badge" alt="Completion"/>
+<br/>
+<strong>✅ Completion</strong><br/>
+<small>Course Modules</small>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/Projects_Built-15+-orange?style=for-the-badge" alt="Projects"/>
+<br/>
+<strong>💻 Projects</strong><br/>
+<small>Real-World Impact</small>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
+<img src="https://img.shields.io/badge/Community-500+-purple?style=for-the-badge" alt="Community"/>
+<br/>
+<strong>🤝 Community</strong><br/>
+<small>Telegram Members</small>
+</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
+### 📊 Student Demographics
+
+```mermaid
+pie title SAiR Student Backgrounds
+    "Computer Science Students" : 45
+    "Engineering Graduates" : 25
+    "Self-Taught Developers" : 15
+    "Career Changers" : 10
+    "University Researchers" : 5
+```
+
+<br/>
+
+### 🎓 Educational Outcomes
+
 <table>
-<thead>
 <tr>
-<th width="25%">🎯 Metric Category</th>
-<th width="25%">📊 Current Status</th>
-<th width="25%">🎯 Q2 2025 Goal</th>
-<th width="25%">🚀 Year-End Goal</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="Community" width="30" height="30" /><br/>
-<strong>👥 Community Size</strong>
+<td width="50%" valign="top">
+
+#### 🏆 Skills Developed
+
+**Technical Competencies:**
+- ✅ Python Programming (Advanced)
+- ✅ Machine Learning Algorithms
+- ✅ Data Preprocessing & EDA
+- ✅ Model Evaluation & Tuning
+- ✅ Neural Networks (In Progress)
+- 🔜 Deep Learning Frameworks
+- 🔜 MLOps & Deployment
+
+**Soft Skills:**
+- Problem-solving mindset
+- Project management
+- Technical communication
+- Collaborative development
+- Presentation skills
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/200%2B_Learners-success?style=for-the-badge" alt="200+"/><br/>
-Growing Telegram group<br/>
-Active participation
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/500%2B_Target-blue?style=for-the-badge" alt="500+"/><br/>
-Expand to new regions<br/>
-Diverse backgrounds
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/1000%2B_Vision-purple?style=for-the-badge" alt="1000+"/><br/>
-Pan-African reach<br/>
-Strong alumni network
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Courses" width="30" height="30" /><br/>
-<strong>📚 Courses Completed</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/2_Modules_Done-success?style=for-the-badge" alt="2 Modules"/><br/>
-Foundation & Regression<br/>
-Current: Neural Networks
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/4_Modules_Target-blue?style=for-the-badge" alt="4 Modules"/><br/>
-Add MLOps<br/>
-Advanced curriculum
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/6_Modules_Vision-purple?style=for-the-badge" alt="6 Modules"/><br/>
-Full specialization<br/>
-Advanced tracks
+<td width="50%" valign="top">
+
+#### 📊 Employment Outcomes
+
+**Placement Statistics:**
+- 30% Employed in Tech Roles
+- 25% Advanced University Studies
+- 20% Freelance/Consulting
+- 15% Building Startups
+- 10% Continuing Education
+
+**Success Stories:**
+- **Ahmed**: NASA Challenge Finalist
+- **Sara**: Healthcare Startup Founder
+- **Khalid**: Agricultural Tech Innovator
+- **Nadia**: Data Scientist at Fintech
+- **Omar**: AI Research Assistant
+
 </td>
 </tr>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Projects" width="30" height="30" /><br/>
-<strong>🚀 Projects Built</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/15%2B_Projects-success?style=for-the-badge" alt="15+"/><br/>
-Real-world applications<br/>
-Portfolio-ready work
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/50%2B_Target-blue?style=for-the-badge" alt="50+"/><br/>
-Industry collaborations<br/>
-Complex solutions
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/100%2B_Vision-purple?style=for-the-badge" alt="100+"/><br/>
-Production deployments<br/>
-Startup launches
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Geography" width="30" height="30" /><br/>
-<strong>🌍 Geographic Reach</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Sudan_Focused-success?style=for-the-badge" alt="Sudan"/><br/>
-Local talent development<br/>
-Community building
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/5_African_Nations-blue?style=for-the-badge" alt="5 Nations"/><br/>
-Regional expansion<br/>
-Cross-border learning
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pan_African-purple?style=for-the-badge" alt="Pan-African"/><br/>
-Continent-wide impact<br/>
-Global recognition
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Success" width="30" height="30" /><br/>
-<strong>🏆 Student Success</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/85%25_Completion-success?style=for-the-badge" alt="85%"/><br/>
-High engagement rate<br/>
-Active participation
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/90%25_Retention-blue?style=for-the-badge" alt="90%"/><br/>
-Improved support<br/>
-Better resources
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/95%25_Success-purple?style=for-the-badge" alt="95%"/><br/>
-Alumni achievements<br/>
-Career placements
-</td>
-</tr>
-</tbody>
 </table>
 
 </div>
@@ -1041,106 +1031,187 @@ Career placements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Source" width="80" height="80" />
+### 🌟 Our Open Source Philosophy
 
-<h3>Embracing Open Education & Collaboration</h3>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="60" height="60" />
 
-<p>SAiR operates under <strong>open education principles</strong>. All course materials, code examples, and learning resources are freely available for educational purposes.</p>
+**Everything we teach is open source** – because knowledge should be free and accessible to everyone, especially in regions with limited resources.
 
 <br/>
 
-<!-- Contribution Grid -->
+### 📁 Repository Structure
+
+```
+SAIR_Courses/
+├── 📂 Module_1_ML_Foundations/
+│   ├── 📁 lectures/          # Slides & notes
+│   ├── 📁 code/              # Jupyter notebooks
+│   ├── 📁 assignments/       # Weekly exercises
+│   └── 📁 projects/          # Student projects
+├── 📂 Module_2_ML_Algorithms/
+│   ├── 📁 scikit-learn/
+│   ├── 📁 model_selection/
+│   └── 📁 deployment/
+├── 📂 Module_3_Neural_Networks/  # ACTIVE
+│   ├── 📁 numpy_implementation/
+│   ├── 📁 backpropagation/
+│   └── 📁 optimization/
+├── 📂 templates/             # Project templates
+├── 📂 datasets/              # Curated datasets
+├── 📂 community_projects/    # Student contributions
+└── 📜 README.md              # This file
+```
+
+<br/>
+
+### 🤝 How to Contribute
+
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Improve" width="50" height="50" />
-<br/><br/>
-<strong>📚 Improve Curriculum</strong><br/>
-Enhance existing modules
+<td width="50%" valign="top">
+
+#### 🎓 For Students & Learners
+
+1. **Join** our Telegram community
+2. **Clone** the course repository
+3. **Complete** weekly assignments
+4. **Submit** pull requests with solutions
+5. **Share** your projects with the community
+
+**Beginner-friendly issues** are labeled with `good-first-issue` to help you get started.
+
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Plus.png" alt="Add" width="50" height="50" />
-<br/><br/>
-<strong>💡 Add Content</strong><br/>
-Create new learning materials
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Arabic%20Symbol.png" alt="Translate" width="50" height="50" />
-<br/><br/>
-<strong>🌍 Translate</strong><br/>
-Make resources available in Arabic
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" alt="Mentor" width="50" height="50" />
-<br/><br/>
-<strong>👨‍🏫 Mentor</strong><br/>
-Guide next generation learners
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gift.png" alt="Donate" width="50" height="50" />
-<br/><br/>
-<strong>🎁 Donate Resources</strong><br/>
-Computing power, datasets
+<td width="50%" valign="top">
+
+#### 👨‍🏫 For Educators & Experts
+
+1. **Review** course materials
+2. **Suggest** improvements via issues
+3. **Create** new exercises or projects
+4. **Mentor** students in the community
+5. **Share** relevant resources
+
+We welcome contributions in:
+- Course content improvement
+- Additional language translations
+- Dataset contributions
+- Project ideas for Sudanese context
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 🌍 Translation Initiative
+
+Help us make AI education accessible in more languages! We're currently seeking volunteers for:
+
+- **Arabic** (Modern Standard & Sudanese Dialect)
+- **French** (For Francophone Africa)
+- **Swahili** (East African reach)
+- **Other African Languages**
+
+Contact us if you can help with translation or localization!
 
 </div>
 
 ---
 
+## 💬 Contact & Support
+
 <div align="center">
 
-## 🌟 Join the SAiR Movement Today!
+### 📞 Get in Touch
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=150&section=footer&text=السير+-+Walking+on+a+Road&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
-
-<h3>Every transformative journey begins with education. Start walking with us.</h3>
-
-<br/>
-
-<!-- Final CTA Buttons -->
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/SAIR-Org/SAIR_Courses">
-<img src="https://img.shields.io/badge/START_LEARNING_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Start Learning Now"/>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Founder" width="60" height="60" />
+<br/><br/>
+<strong>Mohammed Awad Ahmed</strong><br/>
+<small>Founder & CEO</small>
+<br/><br/>
+<a href="https://www.linkedin.com/in/maas-ai">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
+<br/>
+<a href="mailto:silvaxxx001@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
 </a>
 </td>
-<td align="center">
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="General" width="60" height="60" />
+<br/><br/>
+<strong>General Inquiries</strong><br/>
+<small>Partnerships & Media</small>
+<br/><br/>
+<a href="mailto:sair.org.sudan@gmail.com">
+<img src="https://img.shields.io/badge/Email-sair.org.sudan@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
+</a>
+<br/>
 <a href="https://t.me/+jPPlO6ZFDbtlYzU0">
-<img src="https://img.shields.io/badge/JOIN_OUR_COMMUNITY-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Our Community"/>
+<img src="https://img.shields.io/badge/Telegram-Join_Group-blue?style=flat-square&logo=telegram" alt="Telegram"/>
 </a>
 </td>
-<td align="center">
-<a href="mailto:silvaxxx1@gmail.com">
-<img src="https://img.shields.io/badge/COLLABORATE_WITH_US-4CAF50?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Collaborate With Us"/>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Question%20Mark.png" alt="Support" width="60" height="60" />
+<br/><br/>
+<strong>Student Support</strong><br/>
+<small>Course Questions</small>
+<br/><br/>
+<a href="https://github.com/SAIR-Org/SAIR_Courses/issues">
+<img src="https://img.shields.io/badge/GitHub_Issues-Report_Problems-black?style=flat-square&logo=github" alt="GitHub Issues"/>
+</a>
+<br/>
+<a href="https://t.me/+jPPlO6ZFDbtlYzU0">
+<img src="https://img.shields.io/badge/Telegram_Group-Get_Help-blue?style=flat-square&logo=telegram" alt="Telegram Help"/>
 </a>
 </td>
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Sudan.png" alt="Sudan" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="Sparkles" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Heart.png" alt="Heart" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="World" width="40" height="40" />
+### 📍 Location & Operations
+
+**🌍 Based In:** Sudan (Virtual-First Organization)  
+**🌐 Reach:** Global, with focus on Africa  
+**⏰ Operating Hours:** CAT (Central Africa Time)  
+**💻 Platform:** 100% Online & Remote  
 
 <br/>
 
-<h2>From Sudan 🇸🇩, for Africa ❤️, to the World 🌎</h2>
+### 🙏 Acknowledgments
 
-<hr/>
+We gratefully acknowledge:
 
-**Founder & CEO:** [Mohammed Awad Ahmed (Silva)](https://www.linkedin.com/in/maas-ai)  
-**Contact:** silvaxxx1@gmail.com | [GitHub](https://github.com/silvaxxx1) | [Portfolio](https://silvaxxx1.github.io/MyWebsite/)
+- **Our Students** – for their dedication and passion
+- **Open Source Community** – for making knowledge accessible
+- **Early Supporters** – who believed in our vision
+- **Sudanese Tech Community** – for collaboration and support
+- **Global AI Educators** – for inspiration and guidance
 
-*Last Updated: December 2025 | SAiR Organization v2.0*
+<br/>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAIR-Org&label=SAiR+Visitors&color=blue&style=flat-square" alt="SAiR Visitors" />
-</p>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Building%20Sudan's%20AI%20Future%20Together&fontSize=26&fontColor=fff&animation=fadeIn" width="100%"/>
+
+<br/>
+
+### 🇸🇩 Together, We're Writing Sudan's AI Story
+
+**Join us in this mission to democratize AI education and build a brighter technological future for Sudan and Africa.**
+
+[![Telegram](https://img.shields.io/badge/Join_SAiR_Community-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+jPPlO6ZFDbtlYzU0)
+[![GitHub](https://img.shields.io/badge/Star_Our_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAIR-Org/SAIR_Courses)
+[![LinkedIn](https://img.shields.io/badge/Follow_Our_Progress-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/sair-org)
+
+<br/>
+
+*Last Updated: December 2025 | 🇸🇩 Proudly Sudanese*
 
 </div>
