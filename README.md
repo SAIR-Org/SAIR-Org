@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![SAiR Organization Banner](SAIR_org_banner.jpg)
-
 ### **Empowering Sudan and Africa Through Artificial Intelligence Education & Research**
 
 <table>
