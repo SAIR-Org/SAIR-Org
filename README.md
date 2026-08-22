@@ -155,8 +155,6 @@ Sudan is home base. The plan is a network of chapters across Africa and the Midd
 </tr>
 </table>
 
-</div>
-
 ### 🎓 What Makes SAiR Different
 
 <table>
