@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SAiR&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Sudanese-Founded.%20Built%20for%20Africa%2C%20the%20Middle%20East%20%26%20the%20Global%20South.&descAlignY=55&descSize=20" width="100%"/>
+<img src="assets/SAiR_logo.jpg" alt="SAiR Logo" width="140"/>
+
+# SAiR
+
+### Sudanese-Founded. Built for Africa, the Middle East & the Global South.
 
 <h2>We teach people to build AI from first principles — for free, wherever they're starting from.</h2>
 
@@ -566,7 +570,9 @@ SAIR_Jr/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Sudanese-Founded.%20Multi-Regional.%20Open%20to%20All.&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
+<img src="assets/SAiR_logo.jpg" alt="SAiR Logo" width="80"/>
+
+### Sudanese-Founded. Multi-Regional. Open to All.
 
 ### 🌍 An AI story bigger than one country
 
